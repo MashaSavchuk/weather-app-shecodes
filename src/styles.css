@@ -5,7 +5,9 @@ body {
   font-weight: 400;
   color: #70757a;
 }
-
+.container {
+  text-align: center;
+}
 .weather-app {
   border: 1px solid #70757a;
   border-radius: 10px;
